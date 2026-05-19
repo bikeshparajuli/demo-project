@@ -1,0 +1,16 @@
+Flask==2.0.1
+Werkzeug==2.0.1
+requests==2.25.1
+Jinja2==3.0.1
+SQLAlchemy==1.4.15
+cryptography==3.4.7
+PyJWT==1.7.1
+Pillow==8.2.0
+django==3.2.3
+paramiko==2.7.2
+pyyaml==5.4.1
+urllib3==1.26.4
+certifi==2020.12.5
+gunicorn==20.1.0
+celery==4.4.7
+redis==3.5.3
